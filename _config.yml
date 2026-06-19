@@ -1,0 +1,5 @@
+url: "https://moto-juku.github.io"
+baseurl: "/information-juku"
+
+plugins:
+  - jekyll-sitemap
